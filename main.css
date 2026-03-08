@@ -1,18 +1,18 @@
 body {
-   font-family: Arial, sans-serif;
+   font-family: 'Brush Script MT', cursive;
    margin: 0;
    background-color: #f4f4f4;
 }
 
 header {
-   background-color: #003366;
+   background-color: #661d00;
    color: white;
    padding: 20px;
    text-align: center;
 }
 
 nav {
-   background-color: #005599;
+   background-color: #f5cb5a;
 }
 
 nav ul {
@@ -45,7 +45,7 @@ section {
 }
 
 footer {
-   background-color: #003366;
+   background-color: #661d00;
    color: white;
    text-align: center;
    padding: 15px;
